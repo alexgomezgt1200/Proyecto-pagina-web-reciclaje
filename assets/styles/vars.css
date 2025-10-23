@@ -1,21 +1,21 @@
 :root {
-/* Colores primarios */
-    --c-p-principal: #69B940;
-    --c-p-background: #ffffff;
-    --c-p-nav: #28855E;
-    --c-p-hover-click:#DBF7DF;
-    --c-p-hover: #ffffff;
+  /* Colores primarios */
+  --c-p-principal: #69B940;
+  --c-p-background: #ffffff;
+  --c-p-nav: #28855E;
+  --c-p-hover-click: #DBF7DF;
+  --c-p-hover: #ffffff;
 
-    /* pie de pagina*/
-        --c--pie-1: #28855E;
+  /* Pie de página */
+  --c--pie-1: #28855E;
 
-/* Colores secundarios */
-    --c-secundario-1: #175C3F;
-    --c-secundario-2: #0E3A1C;
-    --c-secundario-3: #072110;
+  /* Colores secundarios */
+  --c-secundario-1: #175C3F;
+  --c-secundario-2: #0E3A1C;
+  --c-secundario-3: #072110;
 
-/* Fuentes*/
-    --f-manrope: "Manrope", sans-serif;
+  /* Fuentes */
+  --f-manrope: "Manrope", sans-serif;
 }
     /*Titulos*/ 
 .manrope-extrabold {
