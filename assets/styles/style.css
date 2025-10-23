@@ -29,6 +29,9 @@ ol {
   max-width: 1000px;
   width: 90%;
 }
+#tipos {
+  display: flex;
+}
 .nav-bar {
   display: flex;
   justify-content: space-between;
