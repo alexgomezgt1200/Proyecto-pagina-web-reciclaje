@@ -23,7 +23,6 @@ ol {
   display: grid;
   grid-template-columns: 1fr 1fr;
   gap: 50px;
-  background-color: white;
   padding: 40px;
   margin: 50px auto;
   border-radius: 15px;
