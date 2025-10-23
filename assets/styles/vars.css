@@ -1,14 +1,67 @@
 :root {
-/* Colores primarios */
-    --c-primario-nav: #28855E;
-    --c-primario-hover: #ffffff;
-    --c-primario-hover-click:  #DBF7DF;
-/* Fuentes*/
-    --f-primaria: "Manrope", sans-serif;
-    --f-secundaria: 
-    --f-terciaria: ;
-    --f-cuarta: ;
-    --f-quinta: ;
-    --f-sexta: ;
-    --f-septima: ;
+  /* Colores primarios */
+  --c-p-principal: #69B940;
+  --c-p-background: #ffffff;
+  --c-p-nav: #28855E;
+  --c-p-hover-click: #DBF7DF;
+  --c-p-hover: #ffffff;
+
+  /* Pie de página */
+  --c--pie-1: #28855E;
+
+  /* Colores secundarios */
+  --c-secundario-1: #175C3F;
+  --c-secundario-2: #0E3A1C;
+  --c-secundario-3: #072110;
+
+  /* Fuentes */
+  --f-manrope: "Manrope", sans-serif;
+}
+    /*Titulos*/ 
+.manrope-extrabold {
+  font-family: "Manrope", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 800;
+  font-style: normal;
+}
+
+.manrope-bold {
+  font-family: "Manrope", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+}
+    /*Subtitulos*/
+.manrope-semibold {
+  font-family: "Manrope", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+}
+    /*Items*/
+    .manrope-medium {
+  font-family: "Manrope", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
+    /*Textos*/
+.manrope-regular {
+  font-family: "Manrope", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.manrope-light {
+  font-family: "Manrope", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+}
+.manrope-extralight {
+  font-family: "Manrope", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 200;
+  font-style: normal;
 }
