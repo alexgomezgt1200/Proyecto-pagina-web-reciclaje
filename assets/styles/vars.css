@@ -23,7 +23,6 @@
   font-optical-sizing: auto;
   font-weight: 800;
   font-style: normal;
-  
 }
 
 .manrope-bold {
@@ -52,9 +51,6 @@
   font-optical-sizing: auto;
   font-weight: 400px;
   font-style: normal;
-  
-  
-  
 }
 
 .manrope-light {
@@ -64,6 +60,7 @@
   font-style: normal;
   
 }
+
 .manrope-extralight {
   font-family: "Manrope", sans-serif;
   font-optical-sizing: auto;
