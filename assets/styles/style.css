@@ -20,9 +20,15 @@ ol {
      background-color: var(--c-p-background);
 }
 #inicio {
-  display: flex;
-  align-items: center;
-  padding: 40px 20px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 50px;
+  background-color: white;
+  padding: 40px;
+  margin: 50px auto;
+  border-radius: 15px;
+  max-width: 1000px;
+  width: 90%;
 }
 .nav-bar {
   display: flex;
