@@ -156,3 +156,21 @@ img{
   display: block;
   margin: 0 auto 10px;        
 }
+button{
+  border-radius: 20px;
+  padding: 10px 20px;
+  background-color: var(--c-p-hover-click);
+  border: none;
+  color: var(--c-p-background);
+}
+a{
+  text-decoration: none;
+  color: var(--c-p-background);
+  color: black;
+}
+.image2 {
+  width: 100px;                
+  height: auto;
+  display: block;
+  margin: 0 auto 10px;        
+}
