@@ -1,0 +1,176 @@
+body {
+  color: var(--c-texto);
+}
+h1, h2 {
+  font-weight: 700;
+  margin-bottom: 10px;
+}
+
+p, ol {
+  font-size: 1rem;
+  line-height: 1.5rem;
+}
+
+ol {
+  padding-left: 20px;
+}
+
+#inicio {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 50px;
+  padding: 40px;
+  margin: 50px auto;
+  max-width: 1000px;
+}
+
+#tipos {
+  text-align: center;
+  padding: 40px;
+}
+
+#tipos h2{
+ margin-bottom: 30px;
+}
+
+#tipos h3 {
+  margin-top: 30px;
+  margin-bottom: 20px;
+}
+
+#consejos {
+  padding: 40px;
+  margin: 50px auto;
+  max-width: 1000px;
+}
+
+#consejos h2 {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+#consejos #imagen_central {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+#consejos #imagen_central img {
+  width: 300px;
+  height: auto;
+}
+
+#consejos .fondo {
+  background-color: var(--c-p-hover-click);
+  padding: 30px;
+  border-radius: 10px;
+  margin-bottom: 30px;
+}
+#consejos .fondo h2 {
+  text-align: center;
+  color: var(--c--pie-1);
+  margin-bottom: 20px;
+}
+
+#consejos .fondo ol {
+  text-align: left;
+}
+
+#consejos .fondo ol li {
+  margin-bottom: 15px;
+}
+
+#clasificacion {
+  padding: 40px;
+  margin: 50px auto;
+  max-width: 1200px;
+}
+
+#clasificacion h2 {
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+footer {
+  background-color: var(--c-p-nav);
+  color: var(--c-p-background);
+  text-align: center;
+  padding: 30px;
+}
+
+footer p {
+  margin: 5px 0;
+  color: var(--c-p-background);
+}
+
+.item {
+  width: 250px;
+  display: inline-block;
+  margin: 15px;
+}
+
+.item p {
+  margin-bottom: 10px;
+  font-weight: 500;
+}
+
+.contenedor-items {
+  width: 900px;
+  margin: 0 auto;
+  margin-bottom: 40px;
+}
+
+.nav-bar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 8px 30px;
+  background-color: var(--c-p-nav);
+}
+
+.nav-logo img {
+    width: 40px;
+    height: 40px;
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: var(--c-p-background);
+}
+
+.nav-links {
+  list-style: none;
+  display: flex;
+  gap: 10px;
+  margin: 0;
+  padding: 0;
+}
+
+img{
+  width: 500px;
+  border-radius: 10px;
+}
+
+.image {
+  width: 100px;                
+  height: auto;
+  display: block;
+  margin: 0 auto 10px;        
+}
+button{
+  border-radius: 20px;
+  padding: 10px 20px;
+  background-color: var(--c-p-hover-click);
+  border: none;
+  color: var(--c-p-background);
+}
+a{
+  text-decoration: none;
+  color: var(--c-p-background);
+  color: black;
+}
+.image2 {
+  width: 100px;                
+  height: auto;
+  display: block;
+  margin: 0 auto 10px;        
+}
