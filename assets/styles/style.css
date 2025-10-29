@@ -125,6 +125,7 @@ footer p {
   align-items: center;
   padding: 8px 30px;
   background-color: var(--c-p-nav);
+  position: fixed;
 }
 
 .nav-logo img {
